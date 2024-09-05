@@ -102,7 +102,7 @@
         Qwery {
             bindings = <
 &kp ESCAPE       &kp Q           &kp W           &kp E               &kp R             &kp T                                                &kp Y          &kp U                &kp I                    &kp O               &kp P                &kp BSPC
-&as TILDE GRAVE  &hm LEFT_GUI A  &hm LEFT_ALT S  &hm LEFT_CONTROL D  &hm LEFT_SHIFT F  &kp G                                                &kp H          &hm RIGHT_SHIFT J    &hm RIGHT_CONTROL K      &hm RIGHT_ALT L     &as COLON SEMICOLON  &as DOUBLE_QUOTES SINGLE_QUOTE
+&ext_power EP_ON &ext_power EP_OFF  &hm LEFT_ALT S  &hm LEFT_CONTROL D  &hm LEFT_SHIFT F  &kp G                                                &kp H          &hm RIGHT_SHIFT J    &hm RIGHT_CONTROL K      &hm RIGHT_ALT L     &as COLON SEMICOLON  &as DOUBLE_QUOTES SINGLE_QUOTE
 &kp LEFT_SHIFT   &kp Z           &kp X           &kp C               &kp V             &kp B             &kp N            &mkp LCLK         &kp N          &kp M                &kp COMMA                &kp PERIOD          &kp SLASH            &kp DELETE
                                                  &kp LEFT_ALT        &kp SPACE         &kp ENTER         &kp SPACE        &kp SPACE         &kp DELETE     &ext_power EP_ON     &ext_power EP_OFF        &kp C_MUTE
             >;
