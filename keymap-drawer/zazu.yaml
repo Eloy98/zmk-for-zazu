@@ -12,8 +12,8 @@ layers:
   - O
   - P
   - {t: '$$mdi:backspace$$', type: backspace}
-  - {t: '`', h: '~', s: '~'}
-  - {t: A, s: '$$mdi:apple-keyboard-command$$'}
+  - EP ON
+  - EP OFF
   - {t: S, s: '$$mdi:apple-keyboard-option$$'}
   - {t: D, s: '$$mdi:apple-keyboard-control$$'}
   - {t: F, s: '$$mdi:apple-keyboard-shift$$'}
